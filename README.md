@@ -48,3 +48,5 @@ As an avid reader, I want to search for new books to read, so that I can keep a 
 
 ## Deployed Application
 https://booksrcheng.herokuapp.com
+
+![Deployed Image](/img/21-mern-homework-demo-01.gif)
